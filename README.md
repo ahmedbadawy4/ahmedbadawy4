@@ -1,6 +1,6 @@
 ## Hello! 👋 
 
-Thing I work with:
+👨🏻‍💻 Thing I work with:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/argo-cd/argo-cd.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
@@ -16,7 +16,7 @@ Thing I work with:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
 
 
-Thing I code with:
+👨🏻‍💻 Thing I code with:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
@@ -32,7 +32,7 @@ Thing I code with:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/devops/devops.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
-🌎 How to reach me :
+📫 How to reach me :
 - [LinkedIn](https://www.linkedin.com/in/ahmedbadawy4)
 
 [![Ahmed Badawy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbadawy4)](https://github.com/ahmedbadawy4/github-readme-stats)

@@ -1,54 +1,57 @@
-## Hello! 👋 
+# Ahmed Badawy
+Senior Cloud Architect & Platform Engineer
 
-👨🏻‍💻 Thing I work with:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ansible/ansible.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/codechef/codechef.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/gitlab/gitlab.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
+I design and evolve secure, scalable, cost-efficient cloud platforms (AWS + multi-cloud) and turn architecture into repeatable delivery with IaC, CI/CD, and strong governance.
 
+- Current focus: Cloud architecture, landing zones, governance, and FinOps-driven design
+- Strength: Architecture decisions with hands-on execution (platform, SRE, DevOps)
+- Interested in: Platform engineering, cloud governance, reliability, observability, cost optimization
 
-👨🏻‍💻 Thing I code with:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/bash/bash.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/groovy/groovy.png"></code>
+## What I do
+- Cloud architecture design (AWS / multi-cloud), reference architectures, target-state roadmaps
+- Architecture as Code (Terraform, Terragrunt; patterns, modules, blueprints)
+- Cloud governance (account strategy, IAM boundaries, tagging, budgets, anomaly detection)
+- Reliability engineering (SLOs, observability by design, incident reduction)
+- Cost-aware architecture (FinOps practices embedded in engineering workflows)
+- Diagramming & modeling (Mermaid, PlantUML, Diagrams-as-code in Python)
 
+## Tech stack
+Cloud: AWS, GCP  
+IaC: Terraform, Terragrunt (plus modular blueprints)  
+Containers: Kubernetes, Docker, Helm, ECS/Fargate  
+CI/CD: GitHub Actions, Jenkins, GitOps, ArgoCD, Harness  
+Observability: Datadog, Prometheus, Grafana, ELK, SignalFx  
+Security: IAM design, encryption, network isolation, policy enforcement (GDPR/SOC2-aligned)  
+Code: Python, Bash (plus Java/Go exposure)
 
-🌱 I’m currently learning:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+## Recent work highlights
+Bondora (Senior Cloud Architect / Platform Engineer)
+- Designed cloud architectures aligned with business growth, compliance, and cost targets
+- Defined reusable architecture blueprints with Terraform/Terragrunt and governance guardrails
+- Embedded FinOps, reliability, and observability requirements into platform architecture
 
+CyberCube (Cloud Architect / Platform Tech Lead)
+- Designed cloud-native AWS architectures and target-state migration designs
+- Standardized infrastructure patterns and embedded SLO/observability into platform design
 
-💬 Ask me about:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/devops/devops.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
+## Selected projects (add links when public)
+- Contract Renewal Automation: automated renewal workflows with governance and auditability
+- PII Shield: data-protection controls, isolation, encryption, and audit-oriented patterns
 
-📫 How to reach me :
-- [LinkedIn](https://www.linkedin.com/in/ahmedbadawy4)
+## Architecture artifacts
+- Diagrams as code: Mermaid / PlantUML / Python Diagrams
+- ADRs: decision logs for trade-offs (cost vs performance vs reliability)
+- Reference architectures: landing zones, network segmentation, IAM boundaries, observability baselines
 
-![Ahmed Badawy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbadawy4)
+## Contact
+- Email: the.ahmed.badawy@gmail.com
+- LinkedIn: https://linkedin.com/in/ahmedbadawy4
+- GitHub: https://github.com/ahmedbadawy4
 
+---
+
+### Optional: GitHub widgets (uncomment if you want them)
 <!--
-**programistka/programistka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working with:
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedbadawy4&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadawy4&layout=compact)
 -->

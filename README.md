@@ -34,8 +34,7 @@
 📫 How to reach me :
 - [LinkedIn](https://www.linkedin.com/in/ahmedbadawy4)
 
-[![Ahmed Badawy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbadawy4)]([https://github.com/ahmedbadawy4/github-readme-stats](https://github-readme-stats.vercel.app/api?username=ahmedbadawy4))
-
+![Ahmed Badawy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbadawy4)
 
 <!--
 **programistka/programistka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

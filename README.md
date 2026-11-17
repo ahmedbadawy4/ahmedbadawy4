@@ -1,6 +1,6 @@
 #### GitHub Statistics
 
-![](https://github-readme-streak-stats-eight.vercel.app/?user=ahmedbadawy4&theme=dark&hide_border=false)  
+![](https://github-readme-streak-stats-eight.vercel.app/?user=ahmedbadawy4&theme=dark&hide_border=false&v=2)  
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedbadawy4&theme=dark&hide_border=false&layout=compact)
 
 #### Trophies

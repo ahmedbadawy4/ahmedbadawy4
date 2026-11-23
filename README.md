@@ -1,8 +1,18 @@
 # Ahmed Badawy
 
-**Cloud and Platform Architect** · AWS, Kubernetes and AI infrastructure · Tallinn, Estonia
+**Cloud and Platform Architect** · AWS, Kubernetes and AI infrastructure ·
 
 I have 13+ years of experience designing and operating AWS and hybrid infrastructure. I combine architecture ownership and technical leadership with hands-on Kubernetes, Terraform, CI/CD and observability.
+
+#### GitHub Statistics
+
+![](https://github-readme-streak-stats-eight.vercel.app/?user=ahmedbadawy4&theme=dark&hide_border=false&v=2)  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedbadawy4&theme=dark&hide_border=false&layout=compact)
+
+#### Trophies
+
+![](https://github-profile-trophies.vercel.app/?username=ahmedbadawy4&theme=dark&column=7&margin-w=15&margin-h=15)
+
 
 [LinkedIn](https://www.linkedin.com/in/theahmedbadawy)
 
@@ -28,12 +38,3 @@ Most of my professional work was done inside company environments, so it is not 
 | [cloud-native-automation-architecture](https://github.com/ahmedbadawy4/cloud-native-automation-architecture) | Argo CD GitOps setup on Kubernetes. App-of-apps pattern, dev and prod environments separated by namespaces and Helm values, Git-driven promotion, GitHub Actions for build and release. | GitOps, Helm, CI/CD |
 | [aws-terraform-infrastructure](https://github.com/ahmedbadawy4/aws-terraform-infrastructure) | Terraform modules for an Amazon EKS cluster and a VPC, deployed with Terragrunt to two environments that share one state backend. Includes an Atlantis server (Terraform and Ansible) and pre-commit checks in GitHub Actions. | Infrastructure as code, AWS, EKS |
 | [helm-rest-api](https://github.com/ahmedbadawy4/helm-rest-api) | Helm chart for a stateless REST API with dev and prod values, a Prometheus ServiceMonitor, and a tag-based release flow that publishes the image to GitHub Container Registry. | Helm, release automation |
-
-#### GitHub Statistics
-
-![](https://github-readme-streak-stats-eight.vercel.app/?user=ahmedbadawy4&theme=dark&hide_border=false&v=2)  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedbadawy4&theme=dark&hide_border=false&layout=compact)
-
-#### Trophies
-
-![](https://github-profile-trophies.vercel.app/?username=ahmedbadawy4&theme=dark&column=7&margin-w=15&margin-h=15)

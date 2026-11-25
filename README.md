@@ -9,7 +9,7 @@ Experience designing and operating AWS and hybrid infrastructure. I combine arch
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=ahmedbadawy4&theme=dark&hide_border=false&v=2)  
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedbadawy4&theme=dark&hide_border=false&layout=compact&langs_count=12&hide=makefile,mako)
 
-The chart counts only my public repositories. My private and company repositories add **Rust** and **PowerShell**, and much more Python, TypeScript and Terraform than the public ones show, so those are not in the chart.
+The chart counts only my public repositories. My private repositories add **Rust** and **PowerShell**, and much more Python, TypeScript and Terraform than the public ones show, so those are not in the chart.
 
 #### Trophies
 

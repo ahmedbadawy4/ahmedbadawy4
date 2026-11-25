@@ -29,7 +29,7 @@ The chart counts only my public repositories. My private and company repositorie
 
 ## Public projects
 
-Most of my professional work was done inside company environments, so it is not public. These repositories are small reference setups and prototypes that show how I build and review infrastructure. None of them is a production system.
+Most of my professional work was done inside company environments, so it is not public. These repositories are small reference setups and prototypes that show how I build and review infrastructure and software. None of them is a production system.
 
 | Project | What it is | What it shows |
 |---|---|---|
@@ -42,3 +42,4 @@ Most of my professional work was done inside company environments, so it is not 
 | [k8s-observability](https://github.com/ahmedbadawy4/k8s-observability) | Observability stack for a local kind cluster. Applications send OpenTelemetry data to Grafana Alloy, which writes metrics to Prometheus and traces to Tempo, with Grafana on top. A Helm chart adds multi-window, multi-burn-rate SLO alerts. CI checks the rules with promtool and the manifests with kubeconform. | Observability, SLO alerting, OpenTelemetry |
 | [simple-go](https://github.com/ahmedbadawy4/simple-go) | Go service that uses only the standard library, with unit tests, health and Prometheus endpoints, a small container image, a Helm chart and an Argo CD Application. GitHub Actions run the tests and chart checks, and push the image to GitHub Container Registry on version tags. | Go, Helm, GitOps, CI/CD |
 | [wordpress-helm-chart](https://github.com/ahmedbadawy4/wordpress-helm-chart) | Helm chart for WordPress with its own MySQL database: dedicated database user, probes, optional Ingress and a NetworkPolicy. GitHub Actions install it on a kind cluster, run the Helm test and publish the chart to GitHub Container Registry on version tags. | Helm, Kubernetes, release automation |
+| [pii-redaction-toolkit](https://github.com/ahmedbadawy4/pii-redaction-toolkit) | Python library that finds personal data and secrets in text and replaces them with a label, a mask or a reversible token. Checksum-checked detectors for payment cards, IBANs and Estonian personal codes, folding of zero-width and look-alike characters before matching, detectors that fail closed when they crash, and a command line. Source-available, not open source. GitHub Actions run lint, tests on Python 3.12 and 3.13, a wheel build and a secret scan. | Python, data protection, testing, CI |

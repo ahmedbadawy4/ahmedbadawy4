@@ -1,5 +1,3 @@
-# Ahmed Badawy
-
 **Cloud and Platform Architect** · AWS, Kubernetes and AI infrastructure
 
 Experience designing and operating AWS and hybrid infrastructure. I combine architecture ownership and technical leadership with hands-on Kubernetes, Terraform, CI/CD and observability.

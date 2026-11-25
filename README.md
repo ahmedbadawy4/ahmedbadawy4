@@ -7,14 +7,13 @@ I have 13+ years of experience designing and operating AWS and hybrid infrastruc
 #### GitHub Statistics
 
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=ahmedbadawy4&theme=dark&hide_border=false&v=2)  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedbadawy4&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahmedbadawy4&theme=dark&hide_border=false&layout=compact&langs_count=12&hide=makefile,mako)
+
+The chart counts only my public repositories. My private and company repositories add **Rust** and **PowerShell**, and much more Python, TypeScript and Terraform than the public ones show, so those are not in the chart.
 
 #### Trophies
 
 ![](https://github-profile-trophies.vercel.app/?username=ahmedbadawy4&theme=dark&column=7&margin-w=15&margin-h=15)
-
-
-[LinkedIn](https://www.linkedin.com/in/theahmedbadawy)
 
 ## What I work with
 
